@@ -2,7 +2,7 @@ ExifRead==2.3.1
 Flask-SQLAlchemy==2.4.4
 Flask==1.1.2
 HTMLParser==0.0.2
-PIL==1.1.6
+PIL
 Pillow==8.3.2
 PyAudio==0.2.11
 PyAutoGUI==0.9.50
